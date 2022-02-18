@@ -2,7 +2,7 @@
 
 int main(){
 	
-	float n1, n2, n3, n4,media,nE,mF;
+	float n1, n2, n3, n4,media,nE,mF, fddd;
 	
 	printf ("Digite as quatro notas");
 	scanf ("%f%f%f%f",&n1,&n2,&n3,&n4);
